@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jihadur Rahman Noyon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h1 align="center">Jihadur Rahman Noyon</h1>
+<h3 align="center">Frontend developer from Bangladesh.</h3>
 <p>  Hi, I'm Jihadur Rahman Noyon, a Junior Web Developer, currently working with Islamic Online Madrasah (IOM) since May 2023. I like to create Project using React </p>
 
 
 
-- 🔭 I’m currently working on [Rokto dot Info](https://rokto.info)
+- 🔭 I’m currently working on [Islamic Online Madrasah](https://iom.edu.bd)
 
 - 👨‍💻 All of my projects are available at [jihadur.com](jihadur.com)
 
