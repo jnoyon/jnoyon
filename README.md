@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jihadur Rahman Noyon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<p>  Hi, I'm Jihadur Rahman Noyon, a Junior Web Developer, currently working with Islamic Online Madrasah (IOM) since May 2023. I like to create Project using React </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnoyon&label=Profile%20views&color=0e75b6&style=flat" alt="jnoyon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnoyon" alt="jnoyon" /></a> </p>
 
 - 🔭 I’m currently working on [Rokto dot Info](https://rokto.info)
 
